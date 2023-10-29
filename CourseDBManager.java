@@ -3,9 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
-/**
- * @author Donovan deVise
- */
+
 public class CourseDBManager implements CourseDBManagerInterface{
 	// Instance Vars
 	CourseDBStructure structure;
